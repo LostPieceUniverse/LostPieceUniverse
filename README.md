@@ -6,7 +6,7 @@ Im an enthusiastic coder who thrives on experimentation and continually seeks to
 When I'm not programming, I enjoy tinkering with my Linux setup and diving into all things tech-related.<br>
 But overall, I'm still a bit of a noob, so please don't take me too seriously ;)<br>
 
-
+---
 
 ## 💼 Languages
 
@@ -33,11 +33,18 @@ But overall, I'm still a bit of a noob, so please don't take me too seriously ;)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![EndeavourOS](https://img.shields.io/badge/EndeavourOS-2196F3?style=for-the-badge&logo=linux&logoColor=white)](https://endeavouros.com/)
 
+---
 
 ## Currently working on
 - my own little c compiler  [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 - learning [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+
+---
+
 ## 🔥 Stats
 
-![LostPieceUniverse's GitHub stats](https://github-readme-stats.vercel.app/api?username=LostPieceUniverse&show_icons=true)
-![most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LostPieceUniverse&layout=compact) 
+<div align="start">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LostPieceUniverse&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact&margin-w=10&show_icons=true&locale=en" height="180em"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=LostPieceUniverse&theme=algolia&margin-w=10&show_icons=true&locale=en&hide_border=true" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=LostPieceUniverse&theme=algolia&hide_border=true&margin-w=10&show_icons=true&locale=en" height="180em"/> 
+</div>
