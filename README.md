@@ -1,4 +1,4 @@
-<img src="frogggo.jpg" width="100%" height="400">
+<img src="frogggo.jpg" width="100%" height="500">
 
 ## Hello I'm Runin. Nice to meet you. :frog:
 
