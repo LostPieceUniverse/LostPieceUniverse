@@ -42,7 +42,7 @@ But overall, I'm still a bit of a noob, so please don't take me too seriously ;)
 ---
 
 ## 🔥 Stats
-
+<div align="center">
 <div align="start">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LostPieceUniverse&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact&margin-w=10&show_icons=true&locale=en" height="180em"  />
     <img src="https://github-readme-stats.vercel.app/api?username=LostPieceUniverse&theme=algolia&margin-w=10&show_icons=true&locale=en&hide_border=true" height="180em" />
