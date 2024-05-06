@@ -1,5 +1,4 @@
-<div align="center">
-  
+
 ## Hello I'm Runin. Nice to meet you. :frog:
 
 Im an enthusiastic coder who thrives on experimentation and continually seeks to refine my craft. I have a passion for customizing my tools to suit my exact needs, always striving for improvement in everything I do.<br>
@@ -34,7 +33,9 @@ But overall, I'm still a bit of a noob, so please don't take me too seriously ;)
 [![EndeavourOS](https://img.shields.io/badge/EndeavourOS-2196F3?style=for-the-badge&logo=linux&logoColor=white)](https://endeavouros.com/)
 
 
-
+## Currently working on/ learning
+- my own little c compiler  [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+- learning [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 ## 🔥 Stats
 
 ![LostPieceUniverse's GitHub stats](https://github-readme-stats.vercel.app/api?username=LostPieceUniverse&show_icons=true)
