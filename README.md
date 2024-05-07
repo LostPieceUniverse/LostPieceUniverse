@@ -42,8 +42,8 @@ But overall, I'm still a bit of a noob, so please don't take me too seriously ;)
 ---
    
 ## Currently working on
-- my own little c compiler  [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-- learning [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+- my own little c compiler
+- learning             [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 
 ---
 
