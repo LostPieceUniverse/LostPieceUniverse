@@ -43,7 +43,7 @@ But overall, I'm still a bit of a noob, so please don't take me too seriously ;)
    
 ## Currently working on
 - my own little c compiler
-- learning             [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+- learning Rust
 
 ---
 
