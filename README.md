@@ -4,7 +4,7 @@
    
 ## Hello I'm Runin. Nice to meet you. :frog:
 
-Im an enthusiastic coder who thrives on experimentation and continually seeks to refine my craft. I have a passion for customizing my tools to suit my exact needs, always striving for improvement in everything I do.<br> 
+I'm an enthusiastic coder who thrives on experimentation and continually seeks to refine my craft. I have a passion for customizing my tools to suit my exact needs, always striving for improvement in everything I do.<br> 
 When I'm not programming, I enjoy tinkering with my Linux setup and diving into all things tech-related.<br>
 But overall, I'm still a bit of a noob, so please don't take me too seriously ;)<br>
 
